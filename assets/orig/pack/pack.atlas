@@ -164,16 +164,9 @@ branche2
   orig: 1280, 640
   offset: 0, 0
   index: -1
-buisson
-  rotate: false
-  xy: 2360, 43
-  size: 1280, 640
-  orig: 1280, 640
-  offset: 0, 0
-  index: -1
 ground
   rotate: false
-  xy: 2360, 685
+  xy: 2336, 7
   size: 871, 74
   orig: 871, 74
   offset: 0, 0
@@ -190,6 +183,27 @@ plage
   xy: 2, 345
   size: 2356, 850
   orig: 2356, 850
+  offset: 0, 0
+  index: -1
+sol-1
+  rotate: false
+  xy: 3202, 367
+  size: 834, 334
+  orig: 834, 334
+  offset: 0, 0
+  index: -1
+sol-3
+  rotate: false
+  xy: 2360, 83
+  size: 838, 332
+  orig: 838, 332
+  offset: 0, 0
+  index: -1
+sol-4
+  rotate: false
+  xy: 2360, 417
+  size: 840, 342
+  orig: 840, 342
   offset: 0, 0
   index: -1
 sol3
@@ -221,9 +235,16 @@ filter: Linear,Linear
 repeat: none
 GUI2
   rotate: false
-  xy: 2360, 883
+  xy: 1284, 35
   size: 955, 715
   orig: 955, 715
+  offset: 0, 0
+  index: -1
+buisson
+  rotate: false
+  xy: 2360, 958
+  size: 1280, 640
+  orig: 1280, 640
   offset: 0, 0
   index: -1
 groupe arbre2
@@ -238,5 +259,12 @@ plage 2
   xy: 2, 752
   size: 2356, 846
   orig: 2356, 846
+  offset: 0, 0
+  index: -1
+sol-2
+  rotate: false
+  xy: 2360, 95
+  size: 657, 861
+  orig: 657, 861
   offset: 0, 0
   index: -1
