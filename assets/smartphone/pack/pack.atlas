@@ -53,6 +53,13 @@ bateau2
   orig: 466, 136
   offset: 0, 0
   index: -1
+blur0
+  rotate: false
+  xy: 3938, 714
+  size: 97, 104
+  orig: 97, 104
+  offset: 0, 0
+  index: -1
 branche
   rotate: false
   xy: 2, 28
@@ -76,7 +83,7 @@ buisson
   index: -1
 champignon
   rotate: false
-  xy: 1281, 976
+  xy: 3896, 1858
   size: 26, 10
   orig: 26, 10
   offset: 0, 0
@@ -104,7 +111,7 @@ groupe arbre2
   index: -1
 layer1
   rotate: false
-  xy: 3938, 734
+  xy: 943, 1040
   size: 67, 84
   orig: 67, 84
   offset: 0, 0
@@ -146,7 +153,7 @@ plage 2
   index: -1
 roche
   rotate: false
-  xy: 946, 667
+  xy: 1281, 942
   size: 60, 44
   orig: 60, 44
   offset: 0, 0
@@ -230,7 +237,7 @@ start
   index: -1
 tronc
   rotate: false
-  xy: 943, 1090
+  xy: 946, 677
   size: 95, 34
   orig: 95, 34
   offset: 0, 0
