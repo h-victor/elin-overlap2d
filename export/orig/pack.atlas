@@ -4,114 +4,135 @@ size: 2048,1024
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
+Diag
+  rotate: false
+  xy: 2, 718
+  size: 1280, 300
+  orig: 1280, 300
+  offset: 0, 0
+  index: -1
 GUI2
   rotate: false
-  xy: 1050, 419
+  xy: 1379, 554
   size: 286, 212
   orig: 286, 212
   offset: 0, 0
   index: -1
+aile papillon
+  rotate: false
+  xy: 2, 17
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
 arbre1
   rotate: false
-  xy: 2, 344
+  xy: 2, 80
   size: 492, 636
   orig: 492, 636
   offset: 0, 0
   index: -1
 arbre2
   rotate: false
-  xy: 496, 266
+  xy: 496, 2
   size: 315, 714
   orig: 315, 714
   offset: 0, 0
   index: -1
 arbre3
   rotate: false
-  xy: 2, 36
+  xy: 813, 410
   size: 320, 306
   orig: 320, 306
   offset: 0, 0
   index: -1
 arbre4
   rotate: false
-  xy: 813, 408
+  xy: 813, 88
   size: 235, 320
   orig: 235, 320
   offset: 0, 0
   index: -1
 blur0
   rotate: false
-  xy: 1779, 721
+  xy: 1135, 457
   size: 242, 259
   orig: 242, 259
   offset: 0, 0
   index: -1
 branche2
   rotate: false
-  xy: 1135, 633
+  xy: 1379, 393
   size: 316, 159
   orig: 316, 159
   offset: 0, 0
   index: -1
 buisson
   rotate: false
-  xy: 1459, 821
+  xy: 1667, 671
   size: 318, 159
   orig: 318, 159
   offset: 0, 0
   index: -1
 feu
   rotate: false
-  xy: 324, 66
+  xy: 1190, 267
   size: 128, 93
   orig: 128, 93
   offset: 0, 0
   index: -1
 groupe arbre
   rotate: false
-  xy: 813, 730
+  xy: 1284, 768
   size: 320, 250
   orig: 320, 250
   offset: 0, 0
   index: -1
 groupe arbre2
   rotate: false
-  xy: 1135, 794
+  xy: 1606, 832
   size: 322, 186
   orig: 322, 186
   offset: 0, 0
   index: -1
 sol
   rotate: false
-  xy: 813, 216
+  xy: 1697, 390
   size: 236, 92
   orig: 236, 92
   offset: 0, 0
   index: -1
 sol2
   rotate: false
-  xy: 324, 161
+  xy: 1050, 179
   size: 138, 181
   orig: 138, 181
   offset: 0, 0
   index: -1
 sol3
   rotate: false
-  xy: 464, 171
+  xy: 1135, 362
   size: 236, 93
   orig: 236, 93
   offset: 0, 0
   index: -1
 sol4 - Copie
   rotate: false
-  xy: 813, 310
+  xy: 1697, 484
   size: 234, 96
   orig: 234, 96
   offset: 0, 0
   index: -1
+start
+  rotate: false
+  xy: 1667, 582
+  size: 268, 87
+  orig: 268, 87
+  offset: 0, 0
+  index: -1
 tronc
   rotate: false
-  xy: 2, 2
+  xy: 1284, 734
   size: 93, 32
   orig: 93, 32
   offset: 0, 0
