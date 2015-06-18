@@ -13,14 +13,14 @@ Diag
   index: -1
 GUI2
   rotate: false
-  xy: 1372, 444
+  xy: 1135, 136
   size: 286, 212
   orig: 286, 212
   offset: 0, 0
   index: -1
 aile papillon
   rotate: false
-  xy: 1284, 783
+  xy: 2, 17
   size: 50, 61
   orig: 50, 61
   offset: 0, 0
@@ -48,42 +48,49 @@ arbre3
   index: -1
 arbre4
   rotate: false
-  xy: 1135, 396
+  xy: 1240, 350
   size: 235, 320
   orig: 235, 320
   offset: 0, 0
   index: -1
 blur0
   rotate: false
-  xy: 1135, 135
+  xy: 1741, 62
   size: 242, 259
   orig: 242, 259
   offset: 0, 0
   index: -1
 branche2
   rotate: false
-  xy: 1379, 283
+  xy: 1423, 162
   size: 316, 159
   orig: 316, 159
   offset: 0, 0
   index: -1
+bridge000
+  rotate: false
+  xy: 1284, 672
+  size: 531, 172
+  orig: 531, 172
+  offset: 0, 0
+  index: -1
 buisson
   rotate: false
-  xy: 1379, 122
+  xy: 1477, 323
   size: 318, 159
   orig: 318, 159
   offset: 0, 0
   index: -1
 echelle018
   rotate: false
-  xy: 1853, 686
+  xy: 1135, 384
   size: 103, 332
   orig: 103, 332
   offset: 0, 0
   index: -1
 feu
   rotate: false
-  xy: 1696, 568
+  xy: 1801, 401
   size: 128, 93
   orig: 128, 93
   offset: 0, 0
@@ -97,9 +104,16 @@ groupe arbre
   index: -1
 groupe arbre2
   rotate: false
-  xy: 1372, 658
+  xy: 1477, 484
   size: 322, 186
   orig: 322, 186
+  offset: 0, 0
+  index: -1
+ladder004
+  rotate: false
+  xy: 1817, 594
+  size: 103, 241
+  orig: 103, 241
   offset: 0, 0
   index: -1
 pont018
@@ -111,28 +125,28 @@ pont018
   index: -1
 sol
   rotate: false
-  xy: 1083, 41
+  xy: 1083, 42
   size: 236, 92
   orig: 236, 92
   offset: 0, 0
   index: -1
 sol2
   rotate: false
-  xy: 1696, 663
+  xy: 1853, 837
   size: 138, 181
   orig: 138, 181
   offset: 0, 0
   index: -1
 sol3
   rotate: false
-  xy: 1321, 27
+  xy: 1423, 67
   size: 236, 93
   orig: 236, 93
   offset: 0, 0
   index: -1
 sol4 - Copie
   rotate: false
-  xy: 1559, 24
+  xy: 1801, 496
   size: 234, 96
   orig: 234, 96
   offset: 0, 0
@@ -146,7 +160,7 @@ start
   index: -1
 tronc
   rotate: false
-  xy: 2, 46
+  xy: 1135, 350
   size: 93, 32
   orig: 93, 32
   offset: 0, 0
