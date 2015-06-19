@@ -25,6 +25,13 @@ aile papillon
   orig: 50, 61
   offset: 0, 0
   index: -1
+apple
+  rotate: false
+  xy: 1240, 685
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
 arbre1
   rotate: false
   xy: 2, 80
